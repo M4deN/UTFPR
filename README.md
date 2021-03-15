@@ -1,3 +1,3 @@
-﻿# utfpr-hello-world
+﻿# UTFPR Primeiro Código GitHub
 
-##Trabalho De Introdução A Engenharia De Software
+Trabalho De Introdução A Engenharia De Software, da UTFPR.
