@@ -1,12 +1,12 @@
 # UTFPR Hello World
-## Trabalho De Introdução De Engenharia De Software
+## Trabalho De IntroduÃ§Ã£o De Engenharia De Software
 
 *Programa Em Linguagem C
 
-*Função "Hello World"
+*FunÃ§Ã£o "Hello World"
 
 
-'''C
+``~~C
 
 
 #include <stdio.h>
@@ -20,4 +20,4 @@ return 0;
 
 }
 
-'''
+`` ~~
